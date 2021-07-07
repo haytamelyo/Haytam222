@@ -2,12 +2,12 @@
 
 
 
-- :yellow_heart: I’m currently studying GIS engineering .
+- :yellow_heart: I’m currently studying at Master's Degree Distributed Systems and Big Data.
 - 🌱 I’m currently focusing on learning new technologies . Addicted to learn and grow every single day. 
-- :tongue: I speak fluent English ( TOEFL 90/120 ), fluent Frensh and Arabic is my native language.
+- :tongue: I have several certifications professionnel in Data Science and BIG DATA.
 
 - 📫 How to reach me:
-    * :office: [LinkedIn] (https://www.linkedin.com/in/haytam-el-youssfi/)
+    * :office: [LinkedIn](https://www.linkedin.com/in/haytam-el-youssfi/)
 
    
 
