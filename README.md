@@ -2,12 +2,13 @@
 
 
 
-- :yellow_heart: I’m currently studying at Master's Degree Distributed Systems and Big Data.
+- :yellow_heart: PhD Student at CRSA-UM6P, Master's Degree Distributed Systems and Big Data at Faculty of sciences Agadir (FSA)   
 - 🌱 I’m currently focusing on learning new technologies . Addicted to learn and grow every single day. 
-- :tongue: I have several certifications professionnel in Data Science and BIG DATA.
+- :tongue: I have several certifications professionnel in Data Science, BIG DATA, Machine Learning, Deep Learning, Cloud and IoT.
 
 - 📫 How to reach me:
     * :office: [LinkedIn](https://www.linkedin.com/in/haytam-el-youssfi/)
+    * :office: [Twitter](https://twitter.com/HaytamYoussfi)
 
    
 
